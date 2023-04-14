@@ -1,0 +1,70 @@
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css"> 
+</head>
+<div style='background-color:ADD8E6'>
+
+<center><h1>My Biography</h1></center>
+<body>
+<center>
+<img src="imagesall/Snowboard_Avadi.jpg">
+<br>
+Avadi Senevirate
+</center>
+
+<div class= "D2"><h3> Hobbies</h3></div>
+<ul class = "U">
+<li> Play videogames</li>
+<li> Read books</li>
+<li>Watch basketball</li>
+</ul>
+
+<div class= "D3"><h3> Goals</h3>
+</div>
+<ol class = "O">
+<li>Go to UC Berkely</li>
+<li>Get a good job</li>
+<li>Buy a house</li>
+</ol>
+
+
+</body>
+<form>
+         What is your favorite food?: <input type = "text" name = "txtFood" id="txtFood" />
+         <br>
+		 
+		What is your favorite movie?: <input type = "text" name = "txtMovie" id="txtMovie" />
+         <br>
+		 
+		 Did you like my website? <br>
+		 <input type="checkbox" name='option1' value='Yes'>Yes
+		<input type="checkbox" name='option2' value='No'>No
+		<input type="checkbox" name='option3' value='It could be better'>It could be better
+		<br>
+		<input type= submit>
+</form>
+
+<h3>Friends and Favorites</h3>
+<table border='2'>
+<tr>
+	<td>Name</td>
+	<td>Favorite Food (with links)</td>
+	<td>Favorite Movie</td><br>
+</tr>
+<tr>
+	<td>Khris</td>
+	<td><A href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftastesbetterfromscratch.com%2Fchilaquiles%2F&psig=AOvVaw0Qzdtsbd632k9BVSv2Hq11&ust=1679374939946000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCLDb1a7d6f0CFQAAAAAdAAAAABAT">Chilaquiles</A></td>
+	<td>Suicide Squad</td>
+</tr>
+<tr>
+	<td>Benjamin</td>
+	<td><A href="https://www.spanishacademyantiguena.com/blog/2022/02/23/guatemalan-cornbread-recipe/">Cornbread</A></td>
+	<td>Coco</td>
+</tr>
+<tr>
+	<td>Advaith</td>
+	<td><A href="https://www.indianhealthyrecipes.com/rasmalai-recipe-easy-rasmalai-in-10-mins-diwali-recipes/">Ras Malai</A></td>
+	<td>Three Idiots</td>
+</tr>
+</div>
+</html>
